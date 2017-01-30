@@ -7,6 +7,6 @@ Judul Project : Intent2
 - Asal Sekolah  : SMK Telkom Malang
 
 ### SCREENSHOOT TAMPILAN
-![Screenshoot 1](https://s17.postimg.org/hnezqiv9r/intent2_1.jpg)
-![Screenshoot 1](https://s17.postimg.org/hnezqiv9r/intent2_1.jpg)
-![Screenshoot 1](https://s18.postimg.org/nxynjypi1/intent2_3.jpg)
+![Screenshoot 1](https://s17.postimg.org/hnezqiv9r/intent2_1.jpg)<br>
+![Screenshoot 1](https://s17.postimg.org/hnezqiv9r/intent2_1.jpg)<br>
+![Screenshoot 1](https://s18.postimg.org/nxynjypi1/intent2_3.jpg)<br>
